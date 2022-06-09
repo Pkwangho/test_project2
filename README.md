@@ -1,2 +1,1 @@
-# test_project2
-test_project2
+# 파이썬을 이용해서 프로그램 만드는 프로젝트 하고싶습니다.
